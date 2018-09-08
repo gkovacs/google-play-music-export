@@ -1,6 +1,6 @@
 {
   "name": "google-play-music-export",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Exports your Google Play Music collection from Android and creates mp3 tags for them",
   "main": "bin/google-play-music-export",
   "dependencies": {
