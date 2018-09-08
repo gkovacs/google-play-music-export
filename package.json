@@ -1,0 +1,41 @@
+{
+  "name": "google-play-music-export",
+  "version": "1.0.5",
+  "description": "Exports your Google Play Music collection from Android and creates mp3 tags for them",
+  "main": "bin/google-play-music-export",
+  "dependencies": {
+    "better-sqlite3": "^4.1.4",
+    "shelljs": "^0.8.2",
+    "yargs": "^12.0.2"
+  },
+  "devDependencies": {
+    "livescript-async": "^1.5.2"
+  },
+  "bin": {
+    "google-play-music-export": "./bin/google-play-music-export"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gkovacs/google-play-music-export.git"
+  },
+  "keywords": [
+    "google",
+    "play",
+    "music",
+    "export",
+    "google-play",
+    "play-music",
+    "music-export",
+    "google-play-music",
+    "google-play-music-export"
+  ],
+  "author": "Geza Kovacs (http://github.com/gkovacs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkovacs/google-play-music-export/issues"
+  },
+  "homepage": "https://github.com/gkovacs/google-play-music-export"
+}
